@@ -16,7 +16,7 @@ I care about fairness. About transparency. About building things that aren't jus
 
 ## 🧩 What I bring
 
-- A strong analytics and modeling foundation from my M.S. in Data Science at ASU (GPA: 3.96)
+- A strong analytics and modeling foundation from my M.S. in Data Science at ASU (GPA: 4.0 / 4.0 With Distinction)
 - 2 years of full-time industry experience at Cognizant in risk analytics and automation
 - Real-world ML delivery experience in healthcare and financial domains
 - Strong grasp of end-to-end pipelines—data engineering, feature work, model tuning, evaluation, and communication
